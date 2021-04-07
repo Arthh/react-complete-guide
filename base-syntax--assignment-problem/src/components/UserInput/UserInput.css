@@ -1,0 +1,4 @@
+.userInput:focus {
+  color: white;
+  background-color: black;
+}
